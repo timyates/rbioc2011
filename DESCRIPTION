@@ -1,7 +1,7 @@
 Package: rbioc2011 
 Type: Package
 Title: Example package for showing gitsvn at BioC 2011 (Manchester)
-Version: 1.0.0
+Version: 1.1.0
 Date: 2011-11-29
 Author: Tim Yates <tyates@picr.man.ac.uk>
 Maintainer: Tim Yates <tyates@picr.man.ac.uk>
