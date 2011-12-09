@@ -9,3 +9,8 @@ test.duplicate = function() {
   a = duplicate( 'tim' )
   checkEquals( a,  c( 'tim', 'tim' ), "Should contain the string tim repeated twice" )
 }
+
+test.rbioc2.duplicate = function() {
+  a = duplicate( 'tim', 3 )
+  checkEquals( a,  c( 'tim', 'tim', 'tim' ), "Need three tims" )
+}
