@@ -1,7 +1,7 @@
 \name{duplicate}
 \alias{duplicate}
 \title{
-  Suplicate function
+  Duplicate function
 }
 \description{
   This is the man page for the duplicate function. 
